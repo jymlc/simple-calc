@@ -38,3 +38,4 @@ Enter the principal, annual interest rate, and time period when prompted. The sc
 
 - `README.md`: Project description and usage instructions.
 - `simple-interest.sh`: Bash script for calculating simple interest.
+This project calculates simple interest.
